@@ -1,0 +1,6 @@
+@FG_MS_Support.Api_HostAddress = http://localhost:5126
+
+GET {{FG_MS_Support.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
